@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<verbs>
+	<verb>
+		<englisch>agree with</englisch>
+		<deutsch>einer Meinung sein mit, zustimmen</deutsch>
+		<beispiel>I agree with him on that point.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>back off*</englisch>
+		<deutsch>zurückweichen</deutsch>
+		<beispiel>She was told to back off.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>be in</englisch>
+		<deutsch>da sein</deutsch>
+		<beispiel>Are your parents in?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>be off*</englisch>
+		<deutsch>gehen</deutsch>
+		<beispiel>I'm off now.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>black out</englisch>
+		<deutsch>in Ohmacht fallen</deutsch>
+		<beispiel>And then she just blacked out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>blow up</englisch>
+		<deutsch>explodieren</deutsch>
+		<beispiel>The bomb might have blown up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>break away
+break free
+break loose</englisch>
+		<deutsch>sich davonmachen, sich losreißen</deutsch>
+		<beispiel>At last, the hostage could break away from his captors.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>break down</englisch>
+		<deutsch>liegen bleiben</deutsch>
+		<beispiel>Finally her car broke down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>break up</englisch>
+		<deutsch>auseinander gehen, sich trennen</deutsch>
+		<beispiel>Sue and Tim broke up last year.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>bring up</englisch>
+		<deutsch>(1) erziehen, großziehen;</deutsch>
+		<beispiel>(1) She was brought up in Wisconsin.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>bring up</englisch>
+		<deutsch>(2) erwähnen</deutsch>
+		<beispiel>(2) Why do you have to bring that up?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>butt in*</englisch>
+		<deutsch>sich einmischen, unterbrechen</deutsch>
+		<beispiel>How can we talk when you keep butting in all the time?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>call off</englisch>
+		<deutsch>abblasen, absagen</deutsch>
+		<beispiel>I had to call off the barbecue because of the bad weather.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>calm down</englisch>
+		<deutsch>sich beruhigen</deutsch>
+		<beispiel>Please calm down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>carry on</englisch>
+		<deutsch>fortfahren mit, weitermachen</deutsch>
+		<beispiel>Please carry on with your homework.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>check out</englisch>
+		<deutsch>nachprüfen, überprüfen</deutsch>
+		<beispiel>I will check it out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>close down</englisch>
+		<deutsch>schließen, zumachen</deutsch>
+		<beispiel>The shop was closed down by the police.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>cut out*</englisch>
+		<deutsch>aufhören</deutsch>
+		<beispiel>Cut it out!</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>do without</englisch>
+		<deutsch>entbehren, verzichten auf</deutsch>
+		<beispiel>I guess I will have to do without lunch today.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>drop in (on)*</englisch>
+		<deutsch>auf einen Sprung hereinkommen, vorbeikommen</deutsch>
+		<beispiel>I can't believe who dropped in on us last night.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>drop off</englisch>
+		<deutsch>absetzen</deutsch>
+		<beispiel>You can drop me off at the next red light.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>ease off</englisch>
+		<deutsch>sich beruhigen, sich entspannen</deutsch>
+		<beispiel>The storm eased off a little.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>end up</englisch>
+		<deutsch>enden</deutsch>
+		<beispiel>How will this end up?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>even out</englisch>
+		<deutsch>glätten</deutsch>
+		<beispiel>The surface of the road was evened out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>fall through</englisch>
+		<deutsch>ins Wasser fallen</deutsch>
+		<beispiel>I hope the house signing doesn't fall through.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>figure out*</englisch>
+		<deutsch>herausfinden, verstehen</deutsch>
+		<beispiel>I just can't figure her out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>fill out</englisch>
+		<deutsch>ausfüllen </deutsch>
+		<beispiel>Would you fill out the form, please? </beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>focuse (on)</englisch>
+		<deutsch>sich konzentrieren auf</deutsch>
+		<beispiel>She focused on this issue.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get along with</englisch>
+		<deutsch>auskommen, zurechtkommen</deutsch>
+		<beispiel>He couldn't get along with his mother-in-law.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get at*</englisch>
+		<deutsch>hinauswollen auf</deutsch>
+		<beispiel>What exactly is he getting at?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get by (on)</englisch>
+		<deutsch>über die Runden kommen (mit)</deutsch>
+		<beispiel>She can't get by on that much money.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get into</englisch>
+		<deutsch>angenommen werden, genommen werden</deutsch>
+		<beispiel>He managed to get himself into the class he wanted.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get off on*</englisch>
+		<deutsch>mögen</deutsch>
+		<beispiel>He gets off on paying soccer.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get on</englisch>
+		<deutsch>vorankommen</deutsch>
+		<beispiel>How are you getting on?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get on with</englisch>
+		<deutsch>(1) weitermachen mit</deutsch>
+		<beispiel>(1) I need to get on with my homework.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get on with</englisch>
+		<deutsch>(2) auskommen mit, sich verstehen mit</deutsch>
+		<beispiel>(2) How do you get on with Sam?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get out of</englisch>
+		<deutsch>herauskommen aus</deutsch>
+		<beispiel>You've got to get out of there.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>get up</englisch>
+		<deutsch>aufstehen</deutsch>
+		<beispiel>Today I got up at 10 am.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>give up</englisch>
+		<deutsch>aufgeben</deutsch>
+		<beispiel>Are you sure you want to give up your career?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>go through</englisch>
+		<deutsch>(1) durchkommen</deutsch>
+		<beispiel>(1) The truck wouldn't go through the tunnel.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>go through</englisch>
+		<deutsch>(2) durchsehen, durchsuchen</deutsch>
+		<beispiel>(2) He went through his pockets, looking for his wallet.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>go through</englisch>
+		<deutsch>(3) durchmachen, durchstehen</deutsch>
+		<beispiel>(3) You won't believe what I've gone through.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>go through</englisch>
+		<deutsch>(4) durchgehen, proben</deutsch>
+		<beispiel>(4) I guess we need to go through the whole song a few more times.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>hand out</englisch>
+		<deutsch>austeilen, verteilen</deutsch>
+		<beispiel>The teacher handed out the test to the surprised students.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>hang up</englisch>
+		<deutsch>auflegen</deutsch>
+		<beispiel>Why did you hang up on me?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>hit back</englisch>
+		<deutsch>zurückschlagen</deutsch>
+		<beispiel>He hit me, but I didn't hit him back.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>hit on*</englisch>
+		<deutsch>anbaggern, anmachen</deutsch>
+		<beispiel>Tom was hitting on Mike's fiancée.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>hold on</englisch>
+		<deutsch>warten</deutsch>
+		<beispiel>Hold on a minute! I have to check this first.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>hurry up</englisch>
+		<deutsch>antreiben, beschleunigen</deutsch>
+		<beispiel>Hurry up, will you? I got some errands to run today.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>idle away</englisch>
+		<deutsch>verbummeln, vertun</deutsch>
+		<beispiel>Don't idle the whole day away.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>insist (on)</englisch>
+		<deutsch>bestehen auf</deutsch>
+		<beispiel>He insisted on it.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>invite over</englisch>
+		<deutsch>einladen</deutsch>
+		<beispiel>Let's invite them over for dinner.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>jump in(to)</englisch>
+		<deutsch>reinspringen</deutsch>
+		<beispiel>I just jumped into the pool and had a refreshing swim.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>keep at</englisch>
+		<deutsch>weitermachen mit</deutsch>
+		<beispiel>I need to keep at this.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>keep off</englisch>
+		<deutsch>nicht betreten</deutsch>
+		<beispiel>Please keep off the lawn.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>keep on</englisch>
+		<deutsch>(1) anbehalten</deutsch>
+		<beispiel>(1) It's a little chilly in here, so I better keep my coat on.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>keep on</englisch>
+		<deutsch>(2) weiterbeschäftigen, weitermachen</deutsch>
+		<beispiel>(2) Just keep on practicing your scales by simply playing them up and down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>keep out (of)</englisch>
+		<deutsch>(1) heraushalten aus</deutsch>
+		<beispiel>(1) Keep out of this and mind your own business.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>keep out (of)</englisch>
+		<deutsch>(2) sich fernhalten von</deutsch>
+		<beispiel>(2) My door is closed. Keep out!</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>knock off</englisch>
+		<deutsch>aufhören mit</deutsch>
+		<beispiel>Knock it off!</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>lead up to</englisch>
+		<deutsch>(1) hinführen zu</deutsch>
+		<beispiel>(1) A narrow path leads up to his cabin.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>lead up to</englisch>
+		<deutsch>(2) hinauswollen auf</deutsch>
+		<beispiel>(2) She was just leading up to something when he interrupted.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>leak out</englisch>
+		<deutsch>durchsickern</deutsch>
+		<beispiel>I hope that news does not leak out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>leave out (of)</englisch>
+		<deutsch>auslassen, weglassen</deutsch>
+		<beispiel>Leave me out of it, please.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>leave up to</englisch>
+		<deutsch>überlassen</deutsch>
+		<beispiel>They left this decision up to me.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>let down</englisch>
+		<deutsch>im Stich lassen</deutsch>
+		<beispiel>I won't let you down again.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>let in</englisch>
+		<deutsch>hereinlassen</deutsch>
+		<beispiel>Don't let strangers in.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>let on (about)</englisch>
+		<deutsch>verraten</deutsch>
+		<beispiel>I promised I wouldn't let on about her new job.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>let up</englisch>
+		<deutsch>nachlassen</deutsch>
+		<beispiel>The storm has let up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>lie down</englisch>
+		<deutsch>(sich) hinlegen</deutsch>
+		<beispiel>I need to lie down and take a little nap.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>light up</englisch>
+		<deutsch>aufleuchten, erhellen</deutsch>
+		<beispiel>We lighted the house up with the headlights of our automobile.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>lighten up</englisch>
+		<deutsch>locker werden</deutsch>
+		<beispiel>Hey, lighten up a little. Enjoy the day.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>line up</englisch>
+		<deutsch>in einer Reihe aufstellen</deutsch>
+		<beispiel>Everyone, please line up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>live up to</englisch>
+		<deutsch>gerecht werden</deutsch>
+		<beispiel>That meal did not live up to my expectations.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>look back (at/on)</englisch>
+		<deutsch>zurückdenken, zurückschauen</deutsch>
+		<beispiel>When I look back on him, I am amazed at all he has accomplished.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>look in (on)</englisch>
+		<deutsch>vorbeikommen, vorbeischauen</deutsch>
+		<beispiel>I will look in on him from time to time.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>look out (for)</englisch>
+		<deutsch>aufpassen</deutsch>
+		<beispiel>Look out for that car!</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>look up to</englisch>
+		<deutsch>bewundern</deutsch>
+		<beispiel>She is glad they look up to her.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>loom up </englisch>
+		<deutsch>auftauchen</deutsch>
+		<beispiel>An old cottage loomed up in the distance.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>loosen up</englisch>
+		<deutsch>lockerer werden</deutsch>
+		<beispiel>Relax and loosen yourself up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make out</englisch>
+		<deutsch>entziffern, verstehen</deutsch>
+		<beispiel>Can you make out what she is saying?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make out with</englisch>
+		<deutsch>herumknutschen</deutsch>
+		<beispiel>There are hot pictures of him making out with a nun.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make up</englisch>
+		<deutsch>(1) zurechtmachen</deutsch>
+		<beispiel>(1) Did she make up the clowns yet?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make up</englisch>
+		<deutsch>(2) ausdenken</deutsch>
+		<beispiel>(2) I made up that story.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make up</englisch>
+		<deutsch>(3) nachholen</deutsch>
+		<beispiel>(3) I'm sorry, but you can't make up that test you missed.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make up</englisch>
+		<deutsch>(4) ausmachen</deutsch>
+		<beispiel>(4) Class participation will make up 25% of your final grade.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make up</englisch>
+		<deutsch>(5)wiedergutmachen</deutsch>
+		<beispiel>(5) They kissed and made up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>make up</englisch>
+		<deutsch>(6) sich ausdenken, erfinden</deutsch>
+		<beispiel>(6) Do you think I would make this up?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>march on</englisch>
+		<deutsch>weitergehen, weiterschreiten</deutsch>
+		<beispiel>Time marches on.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>mark down</englisch>
+		<deutsch>den Preis herabsetzen</deutsch>
+		<beispiel>Pineapples are marked down again.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>mark up</englisch>
+		<deutsch>den Preis anheben</deutsch>
+		<beispiel>Watermelons are marked up again.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>mess up</englisch>
+		<deutsch>(1) in Unordnung bringen</deutsch>
+		<beispiel>(1) He messed up his room.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>mess up</englisch>
+		<deutsch>(2) schmutzig machen</deutsch>
+		<beispiel>(2) The dirty water messed my pants up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>mess up</englisch>
+		<deutsch>(3) durcheinanderbringen</deutsch>
+		<beispiel>(3) Losing my job really messed my life up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>move in(to)</englisch>
+		<deutsch>einziehen</deutsch>
+		<beispiel>I moved into a new apartment last month.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>move on (to)</englisch>
+		<deutsch>(1) sich in Bewegung setzen</deutsch>
+		<beispiel>(1) The officer stopped for a minute, asked some questions, and then moved on.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>move on (to)</englisch>
+		<deutsch>(2) übergehen zu</deutsch>
+		<beispiel>(2) Alright, let's move on to our next point.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>move out (of)</englisch>
+		<deutsch>ausziehen</deutsch>
+		<beispiel>I moved out of my old apartment last month.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>move up (to)</englisch>
+		<deutsch>wechseln, versetzt werden</deutsch>
+		<beispiel>How long will it be before they can move her up?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>nail up</englisch>
+		<deutsch>(1) annageln</deutsch>
+		<beispiel>(1) Please nail this picture up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>nail up</englisch>
+		<deutsch>(2) vernageln, zunageln</deutsch>
+		<beispiel>(2) Who nailed up the door? I can't get out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>open up</englisch>
+		<deutsch>aufmachen</deutsch>
+		<beispiel>They opened up the border a few weeks ago.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>order in(to)</englisch>
+		<deutsch>hereinrufen</deutsch>
+		<beispiel>The officer ordered me in.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pass away/on</englisch>
+		<deutsch>sterben</deutsch>
+		<beispiel>Her uncle passed away last summer.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pass out</englisch>
+		<deutsch>(1) bewußtlos werden</deutsch>
+		<beispiel>(1) Don't drink until you pass out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pass out</englisch>
+		<deutsch>(2) (to) verteilen</deutsch>
+		<beispiel>(2) Please can you pass these handouts out to everyone?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pay off</englisch>
+		<deutsch>sich auszahlen, sich bezahlt machen</deutsch>
+		<beispiel>The time I spent in this project didn't pay off.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pick up</englisch>
+		<deutsch>(1) abholen</deutsch>
+		<beispiel>(1) Relax. I will pick her up from school.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pick up</englisch>
+		<deutsch>(2) hochheben</deutsch>
+		<beispiel>(2) Help me pick up this guy from the sidewalk, will you?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pick up</englisch>
+		<deutsch>(3) wachsen, zunehmen</deutsch>
+		<beispiel>(3) The storm picked up about midnight.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pick up</englisch>
+		<deutsch>(4) aufnehmen, aufschnappen</deutsch>
+		<beispiel>(4) I picked up a little French while I was in Quebec.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pile up</englisch>
+		<deutsch>sich anhüfen, sich stapeln</deutsch>
+		<beispiel>Exams are piling up on my desk.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>plan out</englisch>
+		<deutsch>ausführlich planen</deutsch>
+		<beispiel>They met and planned out their strategy.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>play along</englisch>
+		<deutsch>mitspielen</deutsch>
+		<beispiel>The guy with the guitar came in and played along.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>point out</englisch>
+		<deutsch>aufzeigen, darlegen, hinweisen</deutsch>
+		<beispiel>That's exactly what I pointed out earlier.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pop up</englisch>
+		<deutsch>auftauchen</deutsch>
+		<beispiel>I don't know where he's going to pop up next.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>power up</englisch>
+		<deutsch>einschalten, hochfahren</deutsch>
+		<beispiel>Okay, let's power up the engine and get going.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pull in(to)</englisch>
+		<deutsch>fahren in, parken</deutsch>
+		<beispiel>A stranger just pulled into our driveway.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>pull up</englisch>
+		<deutsch>heraufziehen</deutsch>
+		<beispiel>He reached down and pulled her up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>put across to</englisch>
+		<deutsch>vermitteln, verständlich machen</deutsch>
+		<beispiel>How can I best put this across to them?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>put on</englisch>
+		<deutsch>(1) auf den Arm nehmen</deutsch>
+		<beispiel>(1) Don't put your brother on.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>put on</englisch>
+		<deutsch>(2) anziehen</deutsch>
+		<beispiel>(2) Don't you have some clothes to put on?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>put off (until)</englisch>
+		<deutsch>aufschieben, verschieben</deutsch>
+		<beispiel>Can't you just put this off until tomorrow?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>put together</englisch>
+		<deutsch>zusammenstellen</deutsch>
+		<beispiel>We put a team together on very short notice.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>put up with</englisch>
+		<deutsch>ertragen</deutsch>
+		<beispiel>I just don't know why I even put up with you.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>quiet down</englisch>
+		<deutsch>(1) leiser machen</deutsch>
+		<beispiel>(1) Try to quiet him down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>quiet down</englisch>
+		<deutsch>(2) leiser sein</deutsch>
+		<beispiel>(2) Ask him to quiet down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>rattle off</englisch>
+		<deutsch>herunterleiern</deutsch>
+		<beispiel>She rattled off the long list of names.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>reach out</englisch>
+		<deutsch>ausstrecken</deutsch>
+		<beispiel>I reached out, but there was nothing I could get hold of.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>read over / through</englisch>
+		<deutsch>durchlesen</deutsch>
+		<beispiel>Please read this text over and tell me what is about.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>rely (up)on</englisch>
+		<deutsch>sich verlassen auf</deutsch>
+		<beispiel>Can we rely on you in this case?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>ride out</englisch>
+		<deutsch>überstehen</deutsch>
+		<beispiel>Things are rough around here, but I think I can ride it out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>rub away</englisch>
+		<deutsch>abreiben</deutsch>
+		<beispiel>I used that towel to rub away the dirt on my shoes.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>rule on</englisch>
+		<deutsch>in einer Sache entscheiden</deutsch>
+		<beispiel>When will the court rule on your decision?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run away</englisch>
+		<deutsch>davonlaufen, weglaufen</deutsch>
+		<beispiel>The cat ran away from me.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run down</englisch>
+		<deutsch>den Geist aufgeben</deutsch>
+		<beispiel>It appears that the car ran s.o. down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run off</englisch>
+		<deutsch>abfließen, ablaufen</deutsch>
+		<beispiel>I ran off as fast as I could.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run off with</englisch>
+		<deutsch>abhauen mit</deutsch>
+		<beispiel>The kidnappers ran off with her little daughter.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run over</englisch>
+		<deutsch>(1) überfahren</deutsch>
+		<beispiel>(1) He ran over his neighbor's cat.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run over</englisch>
+		<deutsch>(2) überschreiten</deutsch>
+		<beispiel>(2) I ran over the time allotted for the presentation.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>run out of</englisch>
+		<deutsch>ausgehen</deutsch>
+		<beispiel>I'm afraid we ran out of milk and cookies.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>rush in(to)</englisch>
+		<deutsch>hereinstürzen</deutsch>
+		<beispiel>Don't rush into this job.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>save up</englisch>
+		<deutsch>sparen</deutsch>
+		<beispiel>I'm saving up money for a new car.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>see through</englisch>
+		<deutsch>(1) durchschauen</deutsch>
+		<beispiel>(1) I knew what he was up to, because I saw through him.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>see through</englisch>
+		<deutsch>(2) begleiten, betreuen</deutsch>
+		<beispiel>(2) I'll see this project through.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sell out (to)</englisch>
+		<deutsch>(1) ausverkaufen</deutsch>
+		<beispiel>(1) He refused to sell out to a large corporation.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sell out (to)</englisch>
+		<deutsch>(2) verkaufen, verraten</deutsch>
+		<beispiel>(2) He shouldn't have sold out to them.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>send away for</englisch>
+		<deutsch>anfordern</deutsch>
+		<beispiel>I had to send away for a new part.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>send for</englisch>
+		<deutsch>holen lassen, kommen lassen</deutsch>
+		<beispiel>He sent for his secretary.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>send over (to)</englisch>
+		<deutsch>jemanden anweisen zu gehen</deutsch>
+		<beispiel>She sent me over to her office.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>set up (for)</englisch>
+		<deutsch>arrangieren</deutsch>
+		<beispiel>I will set up a meeting for next week.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>settle down</englisch>
+		<deutsch>(1) sich niederlassen</deutsch>
+		<beispiel>(1) One day they will settle down in a small cabin in the mountains.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>settle down</englisch>
+		<deutsch>(2) beruhigen</deutsch>
+		<beispiel>(2) Will you please settle down and relax?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>share together</englisch>
+		<deutsch>teilen</deutsch>
+		<beispiel>We shared a room together in college.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>shoot up</englisch>
+		<deutsch>in die Höhe schießen</deutsch>
+		<beispiel>Jane shot up just after she turned thirteen.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>show off</englisch>
+		<deutsch>angeben, prahlen</deutsch>
+		<beispiel>Stop showing off.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sign in</englisch>
+		<deutsch>sich eintragen</deutsch>
+		<beispiel>Did you remember to sign in?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sign up for</englisch>
+		<deutsch>sich anmelden zu</deutsch>
+		<beispiel>Did you remember to sign up for the class?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sit around</englisch>
+		<deutsch>rumsitzen</deutsch>
+		<beispiel>Don't just sit around. Do something!</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sit down</englisch>
+		<deutsch>sich hinsetzen, sich setzen</deutsch>
+		<beispiel>Please, sit down and relax.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sit in on</englisch>
+		<deutsch>dabei sein bei</deutsch>
+		<beispiel>You guys mind if I sit in on your discussion?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sit out</englisch>
+		<deutsch>aussetzen</deutsch>
+		<beispiel>I'm not playing. I better sit out this time.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sit up</englisch>
+		<deutsch>(1) sich aufrichten</deutsch>
+		<beispiel>(1) I sat up and read a book.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sit up</englisch>
+		<deutsch>(2) aufrecht sitzen, gerade sitzen</deutsch>
+		<beispiel>(2) I wouldn't get such terrible backaches if I sat up properly.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sleep in</englisch>
+		<deutsch>ausschlafen</deutsch>
+		<beispiel>I slept in this morning.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>slim down</englisch>
+		<deutsch>abnehmen</deutsch>
+		<beispiel>You have slimmed down a lot since last spring break.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>slip up</englisch>
+		<deutsch>einen Fehler begehen/machen</deutsch>
+		<beispiel>You must not slip up again.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>slow down</englisch>
+		<deutsch>abbremsen, langsamer fahren</deutsch>
+		<beispiel>You're going to fast. Please slow down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>smash into</englisch>
+		<deutsch>einschlagen in</deutsch>
+		<beispiel>The car smashed into the side of a bus.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sober up</englisch>
+		<deutsch>ausnüchtern</deutsch>
+		<beispiel>Some coffee definitely won't sober them up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sort itself out</englisch>
+		<deutsch>sich einpendeln</deutsch>
+		<beispiel>Things will sort itself out by the end of the month.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>speak up</englisch>
+		<deutsch>lauter sprechen</deutsch>
+		<beispiel>Please speak up. I nearly can't hear you.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>speak up for</englisch>
+		<deutsch>sich einsetzen für</deutsch>
+		<beispiel>You can speak up for those who cannot speak for themselves.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>split up</englisch>
+		<deutsch>aufteilen, trennen</deutsch>
+		<beispiel>We had to split the class up into two classes.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>spread out</englisch>
+		<deutsch>(sich) ausbreiten</deutsch>
+		<beispiel>He told them to spread out and continue their search.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stand around</englisch>
+		<deutsch>herumstehen</deutsch>
+		<beispiel>Don't stand around. Get busy!</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stand by</englisch>
+		<deutsch>sich bereithalten, warten</deutsch>
+		<beispiel>Stand by while I search for another song.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stand in (for)</englisch>
+		<deutsch>einspringen</deutsch>
+		<beispiel>Sam is sick. Can you stand in for him?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stand up</englisch>
+		<deutsch>aufstehen, sich erheben</deutsch>
+		<beispiel>She stood up and looked across the room.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>start over</englisch>
+		<deutsch>noch einmal von vorne beginnen</deutsch>
+		<beispiel>Sorry, I guess I messed this up, so can I start over?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>start up</englisch>
+		<deutsch>in Betrieb nehmen, starten</deutsch>
+		<beispiel>Start your car up and let's go.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stay over</englisch>
+		<deutsch>übernachten</deutsch>
+		<beispiel>Can my friend stay over, please?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>steal away</englisch>
+		<deutsch>sich davonschleichen, sich wegschleichen</deutsch>
+		<beispiel>She stealed away while he was refilling her coffee.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>step aside</englisch>
+		<deutsch>beiseite treten, zur Seite treten</deutsch>
+		<beispiel>Step aside, please. You're in my way.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stick together</englisch>
+		<deutsch>zusammenhalten</deutsch>
+		<beispiel>We must stick together.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stop by</englisch>
+		<deutsch>vorbeischauen</deutsch>
+		<beispiel>Please stop by before you go on vacation.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stop over</englisch>
+		<deutsch>übernachten</deutsch>
+		<beispiel>We stopped over in Chicago for two nights.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>storm in(to)</englisch>
+		<deutsch>hineinstürmen</deutsch>
+		<beispiel>He stormed into the room, shouting and yelling.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>storm out (of)</englisch>
+		<deutsch>herausstürmen</deutsch>
+		<beispiel>He got angry and stormed out of the meeting.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>straighten out</englisch>
+		<deutsch>(1) in Ordnung bringen, korregieren</deutsch>
+		<beispiel>(1) We have to straighten this mess out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>straighten out</englisch>
+		<deutsch>(2) glätten</deutsch>
+		<beispiel>(2) They straightened out the line of people.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>strip down</englisch>
+		<deutsch>sich ausziehen</deutsch>
+		<beispiel>The doctor told me to strip down for the examination.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>stumble (upon)</englisch>
+		<deutsch>zufällig finden/treffen</deutsch>
+		<beispiel>I just stumbled upon her.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>sum up</englisch>
+		<deutsch>zusammenfassen</deutsch>
+		<beispiel>Can you sum up the arguments of this essay?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>swell up</englisch>
+		<deutsch>anschwellen</deutsch>
+		<beispiel>I bumped my ankle and it swelled up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>switch off</englisch>
+		<deutsch>ausmachen, ausschalten</deutsch>
+		<beispiel>I forgot to switch the TV off before I went to bed.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>switch on</englisch>
+		<deutsch>anmachen, einschalten</deutsch>
+		<beispiel>Can someone switch the light on, please?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>take away</englisch>
+		<deutsch>fortschaffen, wegnehmen</deutsch>
+		<beispiel>The police took her daughter away.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>take apart</englisch>
+		<deutsch>auseinander nehmen</deutsch>
+		<beispiel>Don't take my TV apart.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>take off</englisch>
+		<deutsch>(1) abfliegen, abheben</deutsch>
+		<beispiel>(1) When does your plane take off?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>take off</englisch>
+		<deutsch>(2) aufbrechen</deutsch>
+		<beispiel>(2) Sorry, I have to take off now.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>take off</englisch>
+		<deutsch>(3) ablegen, ausziehen</deutsch>
+		<beispiel>(3) Take your coat off, please.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>take over</englisch>
+		<deutsch>an die Macht kommen, übernehmen</deutsch>
+		<beispiel>If you take over, you will be in charge.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>talk back (to)</englisch>
+		<deutsch>widersprechen</deutsch>
+		<beispiel>Don't ever talk back to her.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>talk out</englisch>
+		<deutsch>ausdiskutieren</deutsch>
+		<beispiel>Let's just talk this matter out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>team up (with)</englisch>
+		<deutsch>zusammenarbeiten, sich zusammentun</deutsch>
+		<beispiel>I don't want to team up with him.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>tear off (of)</englisch>
+		<deutsch>abreißen</deutsch>
+		<beispiel>She tore the label off the bottle.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>tell off</englisch>
+		<deutsch>ausschimpfen</deutsch>
+		<beispiel>I should have told him off.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>tell on</englisch>
+		<deutsch>melden, verpfeifen, verraten</deutsch>
+		<beispiel>I'm going to call your father and tell on you.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>think back (to)</englisch>
+		<deutsch>zurückdenken an</deutsch>
+		<beispiel>Try and think back to the morning of June 5.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>think over</englisch>
+		<deutsch>überdenken, überlegen</deutsch>
+		<beispiel>I needed a few minutes to think it over.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>think through</englisch>
+		<deutsch>gründlich durchdenken, gründlich nachdenken</deutsch>
+		<beispiel>First, let me think this through and I'll call you tomorrow first in the morning.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>think of</englisch>
+		<deutsch>sich einfallen lassen</deutsch>
+		<beispiel>I quickly had to think of something.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>think up</englisch>
+		<deutsch>sich ausdenken, erfinden</deutsch>
+		<beispiel>I'll think something up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>throw up</englisch>
+		<deutsch>sich erbrechen, sich übergeben</deutsch>
+		<beispiel>I was so nauseous I almost threw up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>tidy away</englisch>
+		<deutsch>wegräumen</deutsch>
+		<beispiel>Please tiday your stuff away.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>tidy up</englisch>
+		<deutsch>aufräumen, in Ordnung bringen</deutsch>
+		<beispiel>Your room looks like a pig sty. You better tidy it up now.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>trick into</englisch>
+		<deutsch>durch einen Trick bringen zu</deutsch>
+		<beispiel>He tried to trick her into doing it his way.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>try out</englisch>
+		<deutsch>ausprobieren, versuchen</deutsch>
+		<beispiel>Let's try out this candy store.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn around/about</englisch>
+		<deutsch>kehrt machen, umdrehen</deutsch>
+		<beispiel>The car turned around and went the other way.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn down</englisch>
+		<deutsch>(1) nach unten biegen, umklappen</deutsch>
+		<beispiel>(1) He turned his collar down, when he entered her house.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn down</englisch>
+		<deutsch>(2) leiser stellen</deutsch>
+		<beispiel>(2) Turn the music down a little, will you?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn down</englisch>
+		<deutsch>(3) ablehnen</deutsch>
+		<beispiel>(3) Our proposal was turned down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn in</englisch>
+		<deutsch>ins Bett gehen</deutsch>
+		<beispiel>I need some sleep. I'm going to turn in now.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn in(to)</englisch>
+		<deutsch>einbiegen, einlenken</deutsch>
+		<beispiel>Turn in for some gas.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn off</englisch>
+		<deutsch>abstellen, auschalten</deutsch>
+		<beispiel>Could you please turn the radio off?</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn on</englisch>
+		<deutsch>einschalten</deutsch>
+		<beispiel>Don't forget to turn on the lights when the sun goes down.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn up</englisch>
+		<deutsch>(1) hochkrempeln, umkrempeln</deutsch>
+		<beispiel>(1) Turn your cuffs up, please.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn up</englisch>
+		<deutsch>(2) passieren, geschehen</deutsch>
+		<beispiel>(2) Something always turns up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>turn up</englisch>
+		<deutsch>(3) auftauchen</deutsch>
+		<beispiel>(3) Apparently, new evidence has turned up.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>use up</englisch>
+		<deutsch>aufbrauchen, verbrauchen</deutsch>
+		<beispiel>You can use it up. I have more of it.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>wake up</englisch>
+		<deutsch>aufwachen</deutsch>
+		<beispiel>Wake up! We have hit the road.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>walk off</englisch>
+		<deutsch>abhauen</deutsch>
+		<beispiel>They didn't even say good-bye. They just walked off.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>walk out (on)</englisch>
+		<deutsch>sitzen lassen, verlassen</deutsch>
+		<beispiel>My sister walked out on Fred because she was fed up with him.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>watch over</englisch>
+		<deutsch>wachen über</deutsch>
+		<beispiel>Can you watch over the kids while we're gone.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>watch out (for)</englisch>
+		<deutsch>aufpassen, vorsichtig sein</deutsch>
+		<beispiel>Watch out for the snakes in the bushes.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>wear out</englisch>
+		<deutsch>ermüden, erschöpfen</deutsch>
+		<beispiel>After weeks of learning for this stupid test, I'm worn out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>wipe off (of)</englisch>
+		<deutsch>wegwischen</deutsch>
+		<beispiel>Don't use your sleeve to wipe the ice cream off of your hand.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>work out</englisch>
+		<deutsch>(1) Erfolg haben, klappen</deutsch>
+		<beispiel>(1) Everything will work out in the end.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>work out</englisch>
+		<deutsch>(2) trainieren</deutsch>
+		<beispiel>(2) She needs to work out more often.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>work over </englisch>
+		<deutsch>verdreschen</deutsch>
+		<beispiel>They really worked him over.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>wrap up</englisch>
+		<deutsch>einpacken</deutsch>
+		<beispiel>Wrap up the presents quickly.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>write away for</englisch>
+		<deutsch>schriftlich anfordern</deutsch>
+		<beispiel>I wrote away for a book on poetry.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>yell out</englisch>
+		<deutsch>aufschreien</deutsch>
+		<beispiel>The pain caused me to yell out.</beispiel>
+		<buffer/>
+	</verb>
+	<verb>
+		<englisch>zip up</englisch>
+		<deutsch>den Reißverschluß zuziehen</deutsch>
+		<beispiel>I had better zip my jacket up.</beispiel>
+		<buffer/>
+	</verb>
+</verbs>

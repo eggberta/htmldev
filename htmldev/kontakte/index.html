@@ -1,0 +1,189 @@
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h2>Adressbuch</h2>
+<div>
+    <fieldset>
+        <label for="xmlFileinput"> <strong>XML File:</strong>
+        </label>
+        <input type="file" id="xmlFileinput" onchange="handleFiles(this.files)" accept=".xml">
+        Kontaktart:
+        <input type="radio" name="kontaktart" value="privat">Privat
+        <input type="radio" name="kontaktart" value="arbeit">Arbeit
+        <input type="radio" name="kontaktart" value="alt">Alle
+        <input type="text" name="TagName" id="input" value="kontakt"> (Gruppe)
+    </fieldset>
+</div>
+
+<div id="output">
+</div>
+
+<script type="text/javascript">
+    function handleFiles(files) {
+        // Check for the various File API support.
+        if (window.FileReader) {
+            // FileReader are supported.
+            getAsText(files[0]);
+        } else {
+            alert('FileReader are not supported in this browser.');
+        }
+    }
+
+    function getAsText(fileToRead) {
+        var reader = new FileReader();
+        // Handle errors load
+        reader.onload = loadHandler;
+        reader.onerror = errorHandler;
+        // Read file into memory as UTF-8
+        reader.readAsText(fileToRead);
+    }
+
+    function loadHandler(event) {
+        var xml = event.target.result;
+        //alert(xml);
+        doc = StringtoXML(xml);
+        searchXML(doc);
+    }
+
+    function errorHandler(evt) {
+        if (evt.target.error.name == "NotReadableError") {
+            alert("Canno't read file !");
+        }
+    }
+
+    function StringtoXML(text) {
+        if (window.ActiveXObject) {
+            var doc = new ActiveXObject('Microsoft.XMLDOM');
+            doc.async = 'false';
+            doc.loadXML(text);
+        } else {
+            var parser = new DOMParser();
+            var doc = parser.parseFromString(text, 'text/xml');
+        }
+        return doc;
+    }
+
+    function searchXML(xmlDoc) {
+
+        x = xmlDoc.getElementsByTagName(document.getElementById("input").value);
+
+        var kontakte = xmlDoc.getElementsByTagName(document.getElementById("input").value);
+
+        divText = "";
+
+        for (i = 0; i < x.length; i++) {
+
+            infinitiv = "";
+            if (xmlDoc.getElementsByTagName("name")[i].childNodes[0]) {
+                nachname = xmlDoc.getElementsByTagName("name")[i].childNodes[0].nodeValue;
+                infinitiv = nachname + ", ";
+            } else {
+                nachname = "";
+            }
+            if (xmlDoc.getElementsByTagName("vorname")[i].childNodes[0]) {
+                vorname = xmlDoc.getElementsByTagName("vorname")[i].childNodes[0].nodeValue;
+                infinitiv = infinitiv + vorname;
+            } else {
+                vorname = "";
+            }
+            adressdaten = "";
+            if (xmlDoc.getElementsByTagName("strasse")[i].childNodes[0]) {
+                strasse = xmlDoc.getElementsByTagName("strasse")[i].childNodes[0].nodeValue;
+                adressdaten = strasse + "<br>";
+            } else {
+                strasse = "";
+            }
+
+            if (xmlDoc.getElementsByTagName("plz")[i].childNodes[0]) {
+                plz = xmlDoc.getElementsByTagName("plz")[i].childNodes[0].nodeValue;
+                adressdaten = adressdaten + plz;
+
+            } else {
+                plz = "";
+            }
+            if (xmlDoc.getElementsByTagName("ort")[i].childNodes[0]) {
+                ort = xmlDoc.getElementsByTagName("ort")[i].childNodes[0].nodeValue;
+                adressdaten = adressdaten + " " + ort;
+            } else {
+                ort = "";
+            }
+
+            bemerkung = "";
+            if (xmlDoc.getElementsByTagName("geburtsdatum")[i].childNodes[0]) {
+                geburtsdatum = xmlDoc.getElementsByTagName("geburtsdatum")[i].childNodes[0].nodeValue;
+                bemerkung = "Geburtsdatum: " + geburtsdatum;
+            } else {
+                geburtsdatum = "";
+            }
+            if (xmlDoc.getElementsByTagName("bemerkung")[i].childNodes[0]) {
+                bemerkungtext = xmlDoc.getElementsByTagName("bemerkung")[i].childNodes[0].nodeValue;
+                bemerkung = "Geburtsdatum: "+  bemerkungtext;
+            } else {
+                geburtsdatum = "";
+            }
+
+            kontaktdaten = "";
+            if (xmlDoc.getElementsByTagName("telefon1")[i].childNodes[0]) {
+                telefon1 = xmlDoc.getElementsByTagName("telefon1")[i].childNodes[0].nodeValue;
+                kontaktdaten =  telefon1 + "<br>";
+            } else {
+                telefon1 = "";
+            }
+            if (xmlDoc.getElementsByTagName("telefon2")[i].childNodes[0]) {
+                telefon2 = xmlDoc.getElementsByTagName("telefon2")[i].childNodes[0].nodeValue;
+                kontaktdaten = kontaktdaten + telefon2 + "<br>";
+            } else {
+                telefon2 = "";
+            }
+            if (xmlDoc.getElementsByTagName("telefon3")[i].childNodes[0]) {
+                telefon3 = xmlDoc.getElementsByTagName("telefon3")[i].childNodes[0].nodeValue;
+                kontaktdaten = kontaktdaten + telefon3 + "<br>";
+            } else {
+                telefon3 = "";
+            }
+            if (xmlDoc.getElementsByTagName("email1")[i].childNodes[0]) {
+                email1 = xmlDoc.getElementsByTagName("email1")[i].childNodes[0].nodeValue;
+                kontaktdaten = kontaktdaten + email1 + "<br>";
+            } else {
+                email1 = "";
+            }
+            if (xmlDoc.getElementsByTagName("email2")[i].childNodes[0]) {
+                email2 = xmlDoc.getElementsByTagName("email2")[i].childNodes[0].nodeValue;
+                kontaktdaten = kontaktdaten + email2 + "<br>";
+            } else {
+                email2 = "";
+            }
+            if (xmlDoc.getElementsByTagName("email3")[i].childNodes[0]) {
+                email3 = xmlDoc.getElementsByTagName("email3")[i].childNodes[0].nodeValue;
+                kontaktdaten = kontaktdaten + email3 + "<br>";
+            } else {
+                email3 = "";
+            }
+
+            if (divText === "") {
+                divText = "<h3>Gefundene Kontakte</h3><br /><table border=1>";
+                divText += "<tr><th>Name</th><th>Adresse</th><th>Kontaktdaten</th><th>Bemerkung</th></tr>";
+            }
+
+            divText += "<tr>" +
+                "<td>" + infinitiv + "</td>" +
+                "<td>" + adressdaten + "</td>" +
+                "<td>" + kontaktdaten + "</td>" +
+                "<td>" + bemerkung + "</td>" +
+                "</tr>";
+        }
+        if (divText == "") {
+            divText = "<h2>Keine Daten vorhanden</h2>";
+        }
+        else {
+            divText += "</table>";
+        }
+        document.getElementById("output").innerHTML = divText;
+    }
+
+</script>
+</body>
+</html>

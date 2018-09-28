@@ -1,0 +1,103 @@
+body {
+    background-color: #eee;
+    line-height:  20px;
+    font-family: sans-serif;
+    font-size: 110%;
+}
+
+h2 {
+    color: rgb(2,113,128);
+}
+
+p {
+    line-height:  25px;
+    font-family: sans-serif;
+    font-size: 110%;
+}
+
+.boxmodelLink {
+    border: 2px solid rgb(2,113,128);
+    font-style: initial;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 3px;
+
+}
+.boxmodel0 {
+    background: rgb(252,211,133);
+    color: white;
+    font-size: 16px;
+    font-style: initial;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    width: 180px;
+    height: 100%;
+}
+
+.boxmodel1 {
+    background: rgb(181,208,238);
+    font-size: 16px;
+    font-style: initial;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    width: 180px;
+    height: 100%;
+}
+
+.boxmodel2 {
+    background: rgb(225,150,170);
+    font-size: 16px;
+    font-style: initial;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    width: 180px;
+    height: 100%;
+}
+table {
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color: #fff;
+}
+table#t01 th {
+    background-color: rgb(2,113,128);
+    color: white;
+}
+td#col1 {
+       background-color: #fff;
+}
+td#col2 {
+    background-color: #eee;
+}
+td#col3 {
+    background: rgb(225,150,170);
+ font-weight: bold;
+}
+td#col4 {
+    text-align: center;
+}
+button{
+	   background: rgb(252,211,133);
+	   padding: 3px 15px;
+     margin: 3px;
+	   font-size: 90%;
+	   font-weight: bold;
+}
+
+
+
+
